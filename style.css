@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    font-family: 'PT Serif', serif;
+}
+h1{
+    font-size: 40px;
+}
+.highlight{
+    color: darkgreen;
+}
+.hwidth
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.hwidth img{
+width: 100%;
+}
+.top-ban{
+    background-image: url("images/top-banner.png" );
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.button{
+ text-decoration: none;
+ background-image: linear-gradient(45deg,lightSalmon,tomato);
+ padding: 10px 20px;
+ color: white;
+ border-radius: 5px;
+ font-weight: 700;
+}
